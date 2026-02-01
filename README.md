@@ -1,57 +1,20 @@
 # Hi 👋 I'm Jitendra Bisht  
 
-🚀 Full Stack Web Developer | MERN Stack  
+💻 Full Stack Web Developer (MERN)  
 🎓 Computer Science Student  
-💡 Passionate about building real-world web applications  
 
----
+🛠️ **Tech:** React | Node.js | Express | MongoDB | HTML | CSS | JavaScript  
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **Full Stack MERN projects**
-- 🌱 Learning **System Design, Backend Optimization & APIs**
-- 💬 Ask me about **React, Node.js, MongoDB, REST APIs**
-- ⚡ Fun fact: I love turning UI designs into clean code
+🚀 **Projects:**  
+- Spotify UI Clone (HTML, CSS)  
+- Full Stack MERN Web App  
+- React Form with Backend Integration  
 
----
+🌐 **Live Project:**  
+https://major-project-xfph.onrender.com
 
-## 🛠️ Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript  
-- React, Bootstrap  
+📫 **Connect:**  
+LinkedIn: https://www.linkedin.com/in/jitendra206 
+Email: jitendrabisht2062004@gmail.com 
 
-**Backend**
-- Node.js, Express.js  
-
-**Database**
-- MongoDB  
-
-**Tools**
-- Git & GitHub  
-- Postman  
-- Render, Netlify  
-
----
-
-## 📌 Projects
-- 🎵 **Wanderlust**   
-
-- 🌐 **Full Stack Web Application**  
-  MERN-based app with authentication and CRUD operations  
-
-- 🧾 **Add New Listings Page (React + Backend)**  
-  Production-style form with backend integration  
-
-👉 Check out my pinned repositories below 👇  
----
-## 🌍 Live Projects
-- 🔗https://major-project-xfph.onrender.com
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/jitendra206  
-- 📧 Email: jitendrabisht2062004@gmail.com 
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Check out my pinned repositories below
