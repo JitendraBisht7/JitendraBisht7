@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jitendra Bisht  
 
 💻 Full Stack Web Developer (MERN)  
-🎓 Computer Science Student  
+🎓 BCA graduate 
 
 🛠️ **Tech:** React | Node.js | Express | MongoDB | HTML | CSS | JavaScript  
 
