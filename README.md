@@ -33,8 +33,7 @@
 ---
 
 ## 📌 Projects
-- 🎵 **Spotify UI Clone**  
-  Responsive UI built using HTML & CSS  
+- 🎵 **Wanderlust**   
 
 - 🌐 **Full Stack Web Application**  
   MERN-based app with authentication and CRUD operations  
@@ -43,17 +42,15 @@
   Production-style form with backend integration  
 
 👉 Check out my pinned repositories below 👇  
-
 ---
-
 ## 🌍 Live Projects
-- 🔗 https://manas-2.onrender.com/
+- 🔗https://major-project-xfph.onrender.com
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jitendra206  
+- 📧 Email: jitendrabisht2062004@gmail.com 
 
 ---
 
