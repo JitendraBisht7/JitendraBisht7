@@ -6,9 +6,9 @@
 🛠️ **Tech:** React | Node.js | Express | MongoDB | HTML | CSS | JavaScript  
 
 🚀 **Projects:**  
+- Airbnb clone
 - Spotify UI Clone (HTML, CSS)  
-- Full Stack MERN Web App  
-- React Form with Backend Integration  
+- E-commerce Platform  
 
 🌐 **Live Project:**  
 https://major-project-xfph.onrender.com
